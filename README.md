@@ -7,3 +7,8 @@
 |:----------:|:----------:|
 |Developer<br/>Project Manager|Developer<br/>Project Manager|
 |![](https://github.com/meowmoeww.png)|![](https://github.com/Sohi2111853.png)|
+
+
+### 분석 주제 
+### 분석 과정 
+![image](https://github.com/meowmoeww/Hackathon-of-ideas-for-solving-future-social-problems-using-big-data/assets/89447043/58722980-f893-42a7-9653-8abf573356d7)
