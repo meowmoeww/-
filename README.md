@@ -3,7 +3,7 @@
 ### 인구 / 환경/ 생태계 데이터를 활용한 지역별 녹조 발생 원인 분석과 해결 방안 제시
 
 ### 🌍 Team Member 
-|Nakyeong Koh<br/>([@meowmoeww](https://github.com/meowmoeww))|Yujin Son <br/>([@Beyujinllike]([https://github.com/Sohi2111853](https://github.com/Beyujinllike)))|
+|Nakyeong Koh<br/>([@meowmoeww](https://github.com/meowmoeww))|Yujin Son <br/>([@Beyujinllike](https://github.com/Beyujinllike))|
 |:----------:|:----------:|
 |데이터 수집 및 전처리 (자연환경데이터 ,도시 및 인프라 데이터)<br/>군집별 분석을 위하여 분산분석을 통한 변수 선택<br/>군집별 녹조에 영향을 주는 변수 해석|데이터 수집 및 전처리 (인구 및 사회 데이터, 생태계 데이터)<br/> 군집화 진행하여 대교 분류하여 후에 대교별 녹조 발생의 원인 규명|
 |![](https://github.com/meowmoeww.png)|![](https://github.com/Beyujinllike.png)|
